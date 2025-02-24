@@ -1,0 +1,2507 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media ((min-width: 300px) and (max-width: 400px)) {
+
+    .galery figcaption  {
+        font-size: 6px !important;
+        line-height: 6px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center {
+        width: 100% !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div > img {
+        height: 173px !important;
+        margin-left: 10px !important;
+        object-fit: contain;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center {
+        justify-content: left !important;
+        gap: 15px !important;
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span {
+        text-align: center !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(1) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div {
+        border: 5px solid white!important;
+    }
+
+    #section22 > div.d-flex.gap-5.justify-content-end.pe-5 img {
+        width: 15% !important;
+    }
+
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div:nth-child(1) > span {
+        width: 110% !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > img {
+        width: 150% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5 div,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 div,
+    .fatos div,
+    .fatos,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 div,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 div,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 div,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > img,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div:nth-child(1) > img,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section22 > div.column.p-5 > div > div:nth-child(1),
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div div,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 {
+        width: 100% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 div {
+        width: 75% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img {
+        width: 30px !important;
+    }
+
+    #section1 > div > div.d-flex.justify-content-end.px-4 > img {
+        width: 100px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div {
+        width: 600px !important;
+    }
+
+    #section1 > div > div:nth-child(3),
+    #section2 > div > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section22 > div.column.p-5 > div {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5, 
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-3.p-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5.justify-content-center,
+    #section19 > div > div > div.p-5.d-flex.flex-column,
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center,
+    #section20 > div > div > div.p-5,
+    #section20 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center,
+    #section21 > div > div > div.p-5,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #section22 > div.column.p-5,
+    #depoimentos > div > div.d-flex.flex-column.p-5,
+    #carouselExample { 
+        padding: 10px !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25 {
+        padding: 0 !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4,
+    #section2 > div > div > div.d-flex.justify-content-center.align-items-center.mt-5.p-5,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 {
+        margin-top: 0 !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 > p:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5 > div:nth-child(1) > div.fatos > p {
+        margin-bottom: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 div,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-left: 0 !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-right: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 {
+        margin-top: 15vw !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 {
+        margin-top: 10px !important;
+    }
+
+    .creditos ul,
+    .agradecimentos ul {
+        padding-left: 10px !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center figcaption {
+        font-size: 8px !important;
+        line-height: 8px !important;
+    }
+
+    .fatos p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center a,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 10px !important;
+        line-height: 12px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 span,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(3),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > span,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    .creditos p,
+    .agradecimentos p,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 > p  {
+        font-size: 12px !important;
+        line-height: 15px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75 p,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100 p,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2) p,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-4 p,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 > p,
+    .creditos span,
+    .agradecimentos span {
+        font-size: 14px !important;
+        line-height: 15px !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(1),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    .ano span,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(1),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(1),
+    #section22 > div.column.p-5 > div > div:nth-child(1) > p,
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos > p {
+        font-size: 20px !important;
+        line-height: 20px !important;
+    }
+
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2)  {
+        font-size: 30px !important;
+        line-height: 30px !important; 
+    }
+
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(2),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(2),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(2),
+    #section20 > div > div > div.p-5 > span,
+    #section21 > div > div > div.p-5 > span,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div:nth-child(1) > span {
+        font-size: 40px !important;
+        line-height: 40px !important; 
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    .fatos,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5 {
+        gap: 1rem !important;
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section2 > div > div {
+        gap: 0 !important;
+    }
+
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center {
+        justify-content: start !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center div {
+        width: 15% !important;
+        height: 15% !important
+    }
+
+    #section18 > div:nth-child(1) {
+        height: 50% !important;
+    }
+
+    .ano {
+        text-align: center !important;
+    }
+
+}
+
+@media ((min-width: 401px) and (max-width: 500px)) {
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 {
+        align-self: center !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p {
+        width: 96.5% !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div > img {
+        height: 175px !important;
+        margin-left: 10px !important;
+        object-fit: contain;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center {
+        justify-content: left !important;
+        gap: 15px !important;
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    .ano {
+        text-align: center !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(1) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div {
+        border: 5px solid white!important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span {
+        width: 110% !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column {
+        width: 150% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5 div,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 div,
+    .fatos div,
+    .fatos,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 div,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 div,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 div,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > img,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div:nth-child(1) > img,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > img,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section22 > div.column.p-5 > div > div:nth-child(1),
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 {
+        width: 100% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 div {
+        width: 75% !important;
+    }
+
+    #section22 > div.d-flex.gap-5.justify-content-end.pe-5 img {
+        width: 15% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img {
+        width: 30px !important;
+    }
+
+    #section1 > div > div.d-flex.justify-content-end.px-4 > img {
+        width: 100px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div {
+        width: 600px !important;
+    }
+
+    #section1 > div > div:nth-child(3),
+    #section2 > div > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section22 > div.column.p-5 > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5, 
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-3.p-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5.justify-content-center,
+    #section19 > div > div > div.p-5.d-flex.flex-column,
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center,
+    #section20 > div > div > div.p-5,
+    #section20 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center,
+    #section21 > div > div > div.p-5,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #section22 > div.column.p-5,
+    #depoimentos > div > div.d-flex.flex-column.p-5 { 
+        padding: 10px !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25 {
+        padding: 0 !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4,
+    #section2 > div > div > div.d-flex.justify-content-center.align-items-center.mt-5.p-5,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 {
+        margin-top: 0 !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 > p:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5 > div:nth-child(1) > div.fatos > p {
+        margin-bottom: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 div,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-left: 0 !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-right: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 {
+        margin-top: 15vw !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 {
+        margin-top: 10px !important;
+    }
+
+    .creditos ul,
+    .agradecimentos ul {
+        padding-left: 10px !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+
+    .galery figcaption  {
+        font-size: 7px !important;
+        line-height: 7px !important;
+    }
+
+    .fatos p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center a,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 span,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(3),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > span,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    .creditos p,
+    .agradecimentos p,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 > p  {
+        font-size: 15px !important;
+        line-height: 15px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75 p,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100 p,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2) p,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-4 p,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 > p,
+    .creditos span,
+    .agradecimentos span {
+        font-size: 18px !important;
+        line-height: 18px !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(1),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    .ano span,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(1),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(1),
+    #section22 > div.column.p-5 > div > div:nth-child(1) > p,
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos > p {
+        font-size: 30px !important;
+        line-height: 30px !important;
+    }
+
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2)  {
+        font-size: 40px !important;
+        line-height: 40px !important; 
+    }
+
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(2),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(2),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(2),
+    #section20 > div > div > div.p-5 > span,
+    #section21 > div > div > div.p-5 > span,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div:nth-child(1) > span {
+        font-size: 50px !important;
+        line-height: 50px !important; 
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    .fatos,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5 {
+        gap: 1rem !important;
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section2 > div > div {
+        gap: 0 !important;
+    }
+
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center {
+        justify-content: start !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center div {
+        width: 15% !important;
+        height: 15% !important
+    }
+
+    #section18 > div:nth-child(1) {
+        height: 55% !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end {
+        align-items: start !important;
+    }
+
+}
+
+@media ((min-width: 501px) and (max-width: 600px)) {
+
+    .galery figcaption  {
+        font-size: 7px !important;
+        line-height: 7px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center{
+        width: 96.5% !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div > img {
+        height: 175px !important;
+        margin-left: 10px !important;
+        object-fit: contain;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center {
+        justify-content: left !important;
+        gap: 15px !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 {
+        margin-left: 10px !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center div {
+        width: 15% !important;
+        height: 15% !important
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    .ano {
+        text-align: center !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(1) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div {
+        border: 5px solid white!important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column {
+        width: 150% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5 div,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 div,
+    .fatos div,
+    .fatos,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 div,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 div,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 div,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > img,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div:nth-child(1) > img,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > img,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section22 > div.column.p-5 > div > div:nth-child(1),
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 {
+        width: 100% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 div {
+        width: 75% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img {
+        width: 30px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div {
+        width: 600px !important;
+    }
+
+    #section22 > div.d-flex.gap-5.justify-content-end.pe-5 img {
+        width: 15% !important;
+    }
+
+    #section18 > div:nth-child(1) {
+        height: 55% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img {
+        height: 50% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section22 > div.column.p-5 > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5, 
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-3.p-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5.justify-content-center,
+    #section19 > div > div > div.p-5.d-flex.flex-column,
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center,
+    #section20 > div > div > div.p-5,
+    #section20 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center,
+    #section21 > div > div > div.p-5,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #section22 > div.column.p-5,
+    #depoimentos > div > div.d-flex.flex-column.p-5 { 
+        padding: 10px !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25 {
+        padding: 0 !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4,
+    #section2 > div > div > div.d-flex.justify-content-center.align-items-center.mt-5.p-5,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 {
+        margin-top: 0 !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 > p:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5 > div:nth-child(1) > div.fatos > p {
+        margin-bottom: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 div,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-left: 0 !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-right: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 {
+        margin-top: 15vw !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 {
+        margin-top: 10px !important;
+    }
+
+    .creditos ul,
+    .agradecimentos ul {
+        padding-left: 10px !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+
+    .fatos p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center a,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 span,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(3),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > span,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    .creditos p,
+    .agradecimentos p,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 > p  {
+        font-size: 15px !important;
+        line-height: 15px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75 p,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100 p,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2) p,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-4 p,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 > p,
+    .creditos span,
+    .agradecimentos span {
+        font-size: 18px !important;
+        line-height: 18px !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(1),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    .ano span,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(1),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(1),
+    #section22 > div.column.p-5 > div > div:nth-child(1) > p,
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos > p {
+        font-size: 30px !important;
+        line-height: 30px !important;
+    }
+
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2)  {
+        font-size: 50px !important;
+        line-height: 50px !important; 
+    }
+
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(2),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(2),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(2),
+    #section20 > div > div > div.p-5 > span,
+    #section21 > div > div > div.p-5 > span,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div:nth-child(1) > span {
+        font-size: 60px !important;
+        line-height: 60px !important; 
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    .fatos,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5 {
+        gap: 2rem !important;
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section2 > div > div {
+        gap: 0 !important;
+    }
+
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center {
+        justify-content: start !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 {
+        align-items: center !important;
+    }
+
+}
+
+@media ((min-width: 601px) and (max-width: 700px)) {
+
+    .galery figcaption {
+        font-size: 8px !important;
+        line-height: 8px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div > img {
+        height: 175px !important;
+        margin-left: 10px !important;
+        object-fit: contain;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center {
+        justify-content: left !important;
+        gap: 15px !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center div {
+        width: 15% !important;
+        height: 15% !important
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    .ano {
+        text-align: center !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(1) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div {
+        border: 5px solid white!important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column {
+        width: 150% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 div,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 div,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 div,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > img,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div:nth-child(1) > img,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > img,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section22 > div.column.p-5 > div > div:nth-child(1),
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 div,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 {
+        width: 100% !important;
+    } 
+    
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 div {
+        width: 75% !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end {
+        align-items: start !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img {
+        width: 40px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div {
+        width: 600px !important;
+    }
+
+    #section18 > div:nth-child(1) {
+        height: 55% !important;
+    }
+
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div {
+        height: 100% !important;
+    }
+
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div > img {
+        height: 100% !important;
+        object-fit: cover !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section22 > div.column.p-5 > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    #section22 > div.d-flex.gap-5.justify-content-end.pe-5 img {
+        width: 10% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5, 
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-3.p-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5.justify-content-center,
+    #section19 > div > div > div.p-5.d-flex.flex-column,
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center,
+    #section20 > div > div > div.p-5,
+    #section20 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center,
+    #section21 > div > div > div.p-5,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5,
+    #section22 > div.column.p-5,
+    #depoimentos > div > div.d-flex.flex-column.p-5 { 
+        padding: 20px !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25 {
+        padding: 0px !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4,
+    #section2 > div > div > div.d-flex.justify-content-center.align-items-center.mt-5.p-5,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 {
+        margin-top: 0 !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 > p:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5 > div:nth-child(1) > div.fatos > p {
+        margin-bottom: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 div,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-left: 0 !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.w-50.align-items-end > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 {
+        margin-right: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 {
+        margin-top: 15vw !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 {
+        margin-top: 10px !important;
+    }
+
+    .creditos ul,
+    .agradecimentos ul {
+        padding-left: 10px !important;
+    }
+
+    .fatos p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center a,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 span,
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center figcaption {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(3),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(3),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > p,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > span,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    .creditos p,
+    .agradecimentos p  {
+        font-size: 15px !important;
+        line-height: 15px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > p,
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 > p,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.ms-4.mt-4 p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.px-4.mt-4.w-75 p,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5.w-100 p,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div:nth-child(2) p,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-4 p,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 p,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.mt-5 p,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 > p,
+    .creditos span,
+    .agradecimentos span,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 > p {
+        font-size: 18px !important;
+        line-height: 18px !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(1),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(1),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(1),
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(1),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(1),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(1),
+    #section22 > div.column.p-5 > div > div:nth-child(1) > p,
+    #section22 > div.column.p-5 > div > div.col-auto.w-50.agradecimentos > p,
+    .ano span {
+        font-size: 30px !important;
+        line-height: 30px !important;
+    }
+
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2)  {
+        font-size: 50px !important;
+        line-height: 50px !important; 
+    }
+
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.flex-column.px-4 > span:nth-child(2),
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5 > span:nth-child(2),
+    #section19 > div > div > div.p-5.d-flex.flex-column > span:nth-child(2),
+    #section20 > div > div > div.p-5 > span,
+    #section21 > div > div > div.p-5 > span,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div:nth-child(1) > span {
+        font-size: 70px !important;
+        line-height: 70px !important; 
+    }
+
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        gap: 1rem !important;
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section2 > div > div {
+        gap: 0 !important;
+    }
+
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center {
+        justify-content: start !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 {
+        align-items: center !important;
+    }
+
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.mt-5 {
+        margin-top: 0 !important;
+    }
+
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3) {
+        margin-top: 10px !important
+    }
+
+}
+
+@media((min-width: 701px) and (max-width: 900px)) {
+
+    .galery figcaption {
+        font-size: 8px !important;
+        line-height: 8px !important;
+    }
+
+    .showGalery {
+        width: 50px !important;
+    }
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div > img {
+        height: 175px !important;
+        margin-left: 10px !important;
+        object-fit: contain;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(1) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(2) > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div {
+        border: 5px solid white!important;
+    }
+
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 {
+        flex-wrap: wrap !important
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img {
+        width: 100% !important;
+        height: 50% !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div div,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 div div,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 div,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 div,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div.mt-5.w-75 {
+        width: 100% !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column {
+        width: 150% !important;
+    }
+
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div, 
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div, 
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div, 
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div {
+        height: 100% !important;
+        width: 100% !important;
+    }
+
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(1) > div > img, 
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(2) > div > img, 
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(3) > div > img, 
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div:nth-child(4) > div > img {
+        height: 100% !important;
+        object-fit: cover !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2 {
+        width: 75% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25 {
+        padding: 0 !important;
+    }
+
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 {
+        padding: 10px !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-3.p-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5.justify-content-center,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4,
+    #depoimentos > div > div.d-flex.flex-column.p-5 {
+         padding: 20px !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img,
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 {
+        margin-left: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3),
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-3.p-5,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-25.gap-5.p-5.justify-content-center {
+        gap: 1rem !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 {
+        margin-top: 0 !important
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 {
+        align-items: center !important;
+    }
+
+    .ano span {
+        font-size: 30px !important;
+    }
+
+    .fatos p {
+        font-size: 15px !important;
+        line-height: 15px !important;
+    }
+
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column > span:nth-child(2),
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2),
+    #section21 > div > div > div.p-5 > span,
+    #depoimentos > div > div.d-flex.flex-column.p-5 > div:nth-child(1) > span {
+        font-size: 90px !important;
+        line-height: 90px !important;
+    }
+
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2) {
+        font-size: 60px !important;
+        line-height: 70px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center span,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+
+    #section19 figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+
+    #section6 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.justify-content-center.p-5,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.align-items-center.w-50.gap-5.p-5.justify-content-center {
+        justify-content: start !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+}
+
+@media ((min-width: 901px) and (max-width: 1000px)) {
+
+    .galery figcaption {
+        font-size: 9px !important;
+        line-height: 9px !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div > img {
+        height: 175px !important;
+        margin-left: 10px !important;
+        object-fit: contain;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 {
+        margin-left: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section19 > div > div > div.p-5.d-flex.flex-column,
+    #section20 > div > div > div.p-5,
+    #section21 > div > div > div.p-5 {
+        padding: 20px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25 {
+        padding: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img {
+        width: 100% !important;
+        height: 50% !important;
+        margin-left: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 {
+        align-items: center !important;
+    }
+
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.mt-5.p-4 {
+        width: 75% !important;
+    }
+
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2) {
+        font-size: 90px !important;
+        line-height: 90px !important;
+    }
+
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 > span:nth-child(2) {
+        font-size: 100px !important;
+        line-height: 100px !important;
+    }
+
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column {
+        width: 150% !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center span,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center a,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 14px !important;
+        line-height: 14px !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+
+    .fatos p {
+        font-size: 16px !important;
+        line-height: 16px !important;
+    }
+
+    .fatos,
+    .fatos div,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 div,
+    #section17 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > img {
+        width: 100% !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 > div:nth-child(2) > div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img {
+        width: 50px !important;
+    }
+
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2) {
+        line-height: 80px !important;
+    }
+
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3) {
+        margin-top: 15px !important;
+    }
+}
+
+@media ((min-width: 1001px) and (max-width: 1300px)) {
+
+    .galery figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+
+    .fatos,
+    .fatos div,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 div {
+        width: 100% !important;
+    }
+
+    .fatos p {
+        font-size: 16px !important;
+        line-height: 16px !important;
+    }
+
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column {
+        width: 150% !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 {
+        align-items: center !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center !important;
+    }
+
+    #section1 > div > div.d-flex.text-light.justify-content-evenly.gap-5.align-items-center > div > img {
+        height: 175px !important;
+        margin-left: 10px !important;
+        object-fit: contain;
+    }
+
+    #section1 > div > div:nth-child(3) > div.p-5.d-flex.ms-5.w-50 > img {
+        width: 100% !important;
+        height: 75% !important;
+        margin-left: 0 !important;
+    }
+
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 {
+        margin-left: 0 !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section19 > div > div > div.p-5.d-flex.flex-column,
+    #section20 > div > div > div.p-5,
+    #section21 > div > div > div.p-5 {
+        padding: 20px !important;
+    }
+
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2) {
+        line-height: 80px !important;
+    }
+
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3),
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(3) {
+        margin-top: 15px !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25 {
+        padding: 0 !important;
+    }
+
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img {
+        width: 50px !important;
+    }
+
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5 > div.d-flex.flex-column > span:nth-child(2) {
+        font-size: 100px !important;
+        line-height: 100px !important;
+    }
+
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center span,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center a,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 14px !important;
+        line-height: 14px !important;
+    }
+}
+
+@media ((min-width: 1301px) and (max-width:1500px)) {
+
+    .galery figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+
+    .fatos,
+    .fatos div{
+        width: 100% !important;
+    }
+
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > img,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 > div.px-5.d-flex.flex-column.w-25,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 div {
+        padding: 0 !important;
+    }
+
+    #section19 > div > div > div.px-5.d-flex.flex-wrap.gap-3.justify-content-center.align-self-center figcaption {
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4 {
+        width: 150% !important;
+    }
+
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50 > div.d-flex.flex-column.ms-4,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50 div {
+        margin-left: 0 !important;
+    }
+
+    .fatos p,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 span,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5 span,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 span,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > span,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5 span,
+    #section9 > div:nth-child(2) > div.d-flex.mt-4.gap-3.w-50 > div.w-50.d-flex.flex-column.align-items-center.justify-content-center > span,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 span,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) span,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div span,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 span,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5 > div:nth-child(2) > span,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50 > div > span,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center span,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center a,
+    #section21 > div > div > div.px-5.d-flex.w-75.mx-5.pt-3.gap-5 span {
+        font-size: 16px !important;
+        line-height: 16px !important;
+    }
+
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
+        justify-content: center !important;
+    }
+
+    #section1 > div > div:nth-child(3) > div.px-5.py-2,
+    #section2 > div > div > div.d-flex.flex-column.p-5.w-50,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75,
+    #section4 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section4 > div:nth-child(2) > div.d-flex.gap-4.w-50 > div.d-flex.flex-column.gap-3.justify-content-center.w-50.p-5,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5,
+    #section6 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section6 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section7 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section8 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.gap-4.w-50.p-5.mt-5,
+    #section9 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section10 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4,
+    #section11 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1),
+    #section12 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section13 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5,
+    #section14 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section14 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-3.justify-content-center.p-5.mt-5,
+    #section15 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section15 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.justify-content-center.align-items-center.p-5.w-50,
+    #section16 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-50,
+    #section17 > div:nth-child(2) > div.d-flex.flex-column.w-50.p-5,
+    #section18 > div:nth-child(2) > div.d-flex.flex-column.w-50 > div.d-flex.flex-column.p-5,
+    #section19 > div > div > div.p-5.d-flex.flex-column,
+    #section20 > div > div > div.p-5,
+    #section21 > div > div > div.p-5 {
+        padding: 20px !important;
+    }
+
+    #section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img {
+        width: 50px !important;
+    }
+}
+
+@media ((min-width: 1501px) and (max-width:1810px)) {
+
+    .galery figcaption {
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+}
+
+.carousel-item {
+    transition: none;
+}
+
+#carouselExample > div > div.carousel-item.active img {
+    width: 50%;
+}
+
+#section10 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.gap-4.p-5.mt-4 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section11 > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    #section12 > div:nth-child(2) > div:nth-child(2) > div.d-flex.flex-column.w-50.justify-content-center.align-items-center > div > div.d-flex.flex-column > img,
+    #section13 > div:nth-child(2) > div.d-flex.w-50.p-5.align-items-center.gap-5.ms-5 > div.w-50.d-flex.flex-column.gap-4 > div.w-25 > img,
+    #section16 > div:nth-child(2) > div:nth-child(2) > div.w-50.d-flex.flex-column.text-center.align-items-center.justify-content-center > div.d-flex.flex-column.mt-4 > img,
+    #section5 > div.d-flex > div.d-flex.flex-column.w-75.p-5 > div.d-flex.mt-5.gap-3 > div.d-flex.flex-column.justify-content-center > div > img,
+    #section3 > div:nth-child(2) > div.d-flex.flex-column.p-5.w-75 > div.d-flex.mt-4.px-4.gap-3 > div.d-flex.flex-column.justify-content-center.w-25 > div > img,
+    .showGalery {
+        width: 50px;
+    }
+
+    #section19 figcaption {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+.creditos p,
+.creditos li,
+.agradecimentos p {
+    font-size: 13px;
+}
+.ano {
+    cursor: default;
+}
+
+.fatos {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1s, visibility 0s 1s;
+}
+
+.ano:hover + .fatos  {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 1s, visibility 0s;
+}
+
+.galery {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 75vw;
+    max-height: 40vw;
+    overflow-y: scroll;
+    padding: 2vw;
+    border: 1vw solid rgb(215, 208, 201);
+    display: none;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    animation-name: galery;
+    animation-duration: 2s;
+    animation-fill-mode: backwards;
+    animation-delay: 0.2s;
+}
+
+.galery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); 
+    filter: blur(10px);
+    display: none;
+    z-index: 10;
+    animation-name: overlay;
+    animation-duration: 1s;
+    animation-fill-mode: backwards;
+    animation-delay: 0.2s;
+}
+
+#section19 > div> div > div:nth-child(2) div {
+    width: 10%;
+}
+
+.overlay.aberto {
+    display: block;
+}
+
+@keyframes galery {
+    0% {
+        transform: translate(-50%, -50%) scale(0);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes overlay {
+
+    0% {
+        transform:scale(0);
+        opacity: 0;
+    }
+    
+    100% {
+        transform:scale(1);
+        opacity: 1;
+    }
+}
